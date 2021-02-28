@@ -1,4 +1,4 @@
-#First Node.js application
+# First Node.js application
 
 -> Basic notes keeping application with four functionalities(run on your command line) :
   1. Add notes
